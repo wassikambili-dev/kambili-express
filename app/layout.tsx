@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     url: "/",
   },
   verification: {
-    google: "VOTRE_CODE_GOOGLE_SEARCH_CONSOLE",
+    google: "10blSpJk04hOj9",
   },
 };
 
